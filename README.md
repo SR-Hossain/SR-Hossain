@@ -2,8 +2,6 @@
 
 🚀 **Software Engineer | Backend & Mobile Developer | Competitive Programmer**
 
-I'm a passionate **Software Engineer** with **1+ years of experience** at **Lii Lab**, specializing in **backend development, database optimization, and cross-platform mobile applications**. I thrive in **fast-paced environments**, solving complex problems efficiently.
-
 ---
 
 ## 📊 GitHub Stats
