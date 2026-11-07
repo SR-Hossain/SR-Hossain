@@ -2,6 +2,8 @@
 
 🚀 **Software Engineer | Backend & Mobile Developer | Competitive Programmer**
 
+🌐 **Portfolio:** [sr-hossain.github.io](https://sr-hossain.github.io)
+
 ---
 
 ## 📊 GitHub Stats
@@ -58,6 +60,7 @@ More projects on my [GitHub](https://github.com/SR-Hossain)! 🚀
 
 ## 📫 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sr--hossain.github.io-F6B547?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sr-hossain.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sshrezvi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sshrezvi)
 [![GitHub](https://img.shields.io/badge/GitHub-SR--Hossain-black?style=for-the-badge&logo=github)](https://github.com/SR-Hossain)
 [![Email](https://img.shields.io/badge/Email-ssh.rezvi@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ssh.rezvi@gmail.com)
