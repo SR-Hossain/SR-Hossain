@@ -2,13 +2,13 @@
 
 🚀 **Software Engineer | Backend & Mobile Developer | Competitive Programmer**
 
-🌐 **Portfolio:** [sr-hossain.github.io](https://sr-hossain.github.io)
+🌐 **Portfolio:** [sshrezvi.github.io](https://sshrezvi.github.io)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Hossain&theme=tokyonight&layout=pie)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SR-Hossain&show_icons=true&theme=radical)
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=sshrezvi&theme=tokyonight&layout=pie)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshrezvi&show_icons=true&theme=radical)
 
 ---
 
@@ -46,23 +46,25 @@
 
 🚀 **AI & Automation**
 
-- **[GPT-Writer](https://github.com/SR-Hossain/GPT-Writer)** – AI-powered Linux writing assistant 📝
-- **[Terminal Copilot](https://github.com/SR-Hossain/Terminal-Copilot)** – AI terminal assistant for Linux 🖥
+- **[GPT-Writer](https://github.com/sshrezvi/GPT-Writer)** – AI-powered Linux writing assistant 📝
+- **[Terminal Copilot](https://github.com/sshrezvi/Terminal-Copilot)** – AI terminal assistant for Linux 🖥
 
 📱 **Mobile & Web Development**
 
-- **[Mess Meal Counter](https://github.com/SR-Hossain/Meal-Counter)** – Real-time CRUD operations from an Android app to Google Sheets 🍽
+- **[Mess Meal Counter](https://github.com/sshrezvi/Meal-Counter)** – Real-time CRUD operations from an Android app to Google Sheets 🍽
 - **[BanglaBuddy](https://github.com/SUST-Ackerman/Bitfest_Hackathon_2025_Final_Round)** – Banglish-to-Bangla AI content management platform 🇧🇩
 
-More projects on my [GitHub](https://github.com/SR-Hossain)! 🚀
+More projects on my [GitHub](https://github.com/sshrezvi)! 🚀
 
 ---
 
 ## 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sr--hossain.github.io-F6B547?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sr-hossain.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sshrezvi.github.io-F6B547?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sshrezvi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sshrezvi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sshrezvi)
-[![GitHub](https://img.shields.io/badge/GitHub-SR--Hossain-black?style=for-the-badge&logo=github)](https://github.com/SR-Hossain)
+[![GitHub](https://img.shields.io/badge/GitHub-sshrezvi-black?style=for-the-badge&logo=github)](https://github.com/sshrezvi)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ssh.rezvi-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ssh.rezvi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sshrezvi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sshrezvi/)
 [![Email](https://img.shields.io/badge/Email-ssh.rezvi@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ssh.rezvi@gmail.com)
 
 ---
